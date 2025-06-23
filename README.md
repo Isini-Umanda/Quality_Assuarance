@@ -11,7 +11,6 @@ Welcome to my Quality Assurance portfolio! I'm an Associate QA Engineer passiona
 
 ## Skills
 - Manual Testing
-- API Testing [https://github.com/Isini-Umanda/reqres-api-testing]
 - Selenium WebDriver (Java)
 - Postman 
 - Test Design
