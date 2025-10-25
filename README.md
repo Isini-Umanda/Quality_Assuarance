@@ -8,7 +8,6 @@ Welcome to my Quality Assurance portfolio! I'm an Associate QA Engineer passiona
 - Passionate about quality, reliability, and bug-free products
 - [umandaisini@gmail.com] | [www.linkedin.com/in/isini-umanda]
 
-
 ## Skills
 - Manual Testing
 - Selenium WebDriver (Java)
@@ -17,6 +16,10 @@ Welcome to my Quality Assurance portfolio! I'm an Associate QA Engineer passiona
 - Bug Reporting & Tracking
 - GitHub
 
+## Projects
+
+### API Testing
+- https://github.com/Isini-Umanda/reqres-api-testing
 
 ## Contact Me
 - Email: umandaisini@gmail.com
