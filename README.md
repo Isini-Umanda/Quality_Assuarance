@@ -11,6 +11,7 @@ Welcome to my Quality Assurance portfolio! I'm an Associate QA Engineer passiona
 ## Skills
 - Manual Testing
 - Selenium WebDriver (Java)
+- Cypress
 - Postman 
 - Test Design
 - Bug Reporting & Tracking
